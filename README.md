@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou a Marcela Melo
 
 🎓 Estudante de Sistemas de Informação  
-🛠️ Tecnica em Infórmatica
+🛠️ Tecnica em Infórmatica  
 💻 Foco em Desenvolvimento Backend  
 ☁️ Estudando Cloud Computing e AWS  
 🔐 Interesse em Segurança da Informação  
