@@ -19,6 +19,8 @@ Tenho experiência com desenvolvimento em Java, Python, JavaScript e PHP, além 
 
 ## 🛠️ Tecnologias e Ferramentas
 
+- HTML
+- CSS
 - Java
 - Python
 - JavaScript
